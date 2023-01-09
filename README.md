@@ -1,2 +1,2 @@
 # Starting
- Primeiro repositorio versionado
+ Primeiro repositorio versionado / curso GIT GITHUB
